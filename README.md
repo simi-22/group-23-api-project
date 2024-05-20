@@ -4,11 +4,11 @@ Building Movie OST Search Application using APIs, JavaScript, HTML, CSS 🚀🚀
 
 # Members
 
-- [Doeveloper(도상석)](https://github.com/ldss3sang) - Scrum Master - 전체 코드 피드백 / 검색페이지 모달기능 / 상세페이지 돌아가는 씨디 구현
+- [Doeveloper(도상석)](https://github.com/ldss3sang) - Scrum Master - 전체 코드 피드백 / 검색페이지 모달기능 / 상세페이지 돌아가는 씨디 구현 / 메인페이지 비주얼 텍스트
 - [Dawon Yoon(윤다원)](https://github.com/Dawon-yoon) - Product Owner / 상세페이지
 - [gmlwls1710(안희진)](https://github.com/gmlwls1710) - 다크 모드 기능 구현
-- [simee(심재은)](https://github.com/simi-22) - 메인페이지 / 상단 비주얼제외, 장르페이지 / 상단 비주얼제외, 검색페이지
-- [MEWji(심윤지)](https://github.com/simyoonji) - 헤더 푸터, 상세페이지 와이어프레임, 전체 디자인 피드백, top 버튼
+- [simee(심재은)](https://github.com/simi-22) - 메인페이지(상단 비주얼제외), 장르페이지(상단 비주얼제외), 검색페이지
+- [MEWji(심윤지)](https://github.com/simyoonji) - 상세페이지 와이어프레임, 헤더, 푸터, 전체 디자인 피드백, top 버튼
 
 # APIs
 
